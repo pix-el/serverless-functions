@@ -10,5 +10,8 @@
   "devDependencies": {
     "http-server": "^0.12.3",
     "serve": "^11.3.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
